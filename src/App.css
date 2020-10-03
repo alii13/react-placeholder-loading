@@ -11,4 +11,7 @@
   .App{
     padding: 0 calc(10vw - 20px);
   }
+  .App h1{
+    font-size: 2.5em;
+  }
 }
