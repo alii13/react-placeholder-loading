@@ -2,11 +2,12 @@ import React from "react"
 import ContentLoader from "react-content-loader"
 
 const Profileplaceholder = (props) => (
+
   <ContentLoader 
   speed={2}
   width={300}
-  height={260}
-  viewBox="0 0 300 260"
+  height={150}
+  viewBox="0 0 300 100"
   backgroundColor="#f3f3f3"
   foregroundColor="#ecebeb"
   {...props}
